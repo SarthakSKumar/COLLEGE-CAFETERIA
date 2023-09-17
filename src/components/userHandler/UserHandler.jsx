@@ -1,5 +1,5 @@
 import {useState} from "react"
-import "./UserHandler.css"
+import "./userHandler.css"
 import Login from "../login/login"
 import Register from "../register/register"
 
